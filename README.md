@@ -42,7 +42,8 @@ The **Student Result Management System (SRMS)** is a web-based application that 
    ```
 
 ## 📸 Screenshots
-_Add screenshots of the application here_
+![image](https://github.com/user-attachments/assets/87094a97-c9e5-46c2-8dd9-87f64b74f798)
+
 
 ## 🤝 Contribution Guidelines
 - Fork the repository.
