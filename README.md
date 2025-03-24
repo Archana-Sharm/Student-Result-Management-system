@@ -1,5 +1,5 @@
 # Student-Result-Management-system
-# Student Result Management System
+
 
 ## 📌 Project Description
 The **Student Result Management System (SRMS)** is a web-based application that stores student details and their academic results. It allows administrators to manage student records efficiently while enabling students to check their results online.
